@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CourseGrade
+comment0.text=\n\ CourseGrade\ determines\ the\ final\ grade\ which\ is\ computed\ as\n\ the\ weighted\ sum\ of\ the\ grades\ obtained\ in\ exam,\ lab\ and\ homework\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

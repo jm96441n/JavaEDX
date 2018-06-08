@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CarSolo
+comment0.text=\n\ Write\ a\ description\ of\ class\ CarSolo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CarSolo()
+comment1.text=\n\ Default\ constructor\ for\ Car\ object\n
+comment2.params=name
+comment2.target=CarSolo(java.lang.String)
+comment2.text=\n\ Constructor\ for\ Car\ obkect\ with\ a\ new\ owner's\ name\n\ @param\ name\ \ name\ of\ owner\n
+comment3.params=dist
+comment3.target=void\ moveCar(int)
+comment3.text=\n\ moveCar\ moves\ a\ car\ forward\ or\ backwards\ by\ dist\ units\n\ @param\ dist\ moving\ distance\n
+comment4.params=angle
+comment4.target=void\ turnCar(double)
+comment4.text=\n\ turnCar\ turns\ a\ car\ by\ a\ given\ degree\n\ @param\ angle\ turn\ angle\ in\ degrees\n
+comment5.params=
+comment5.target=int\ getOdometer()
+comment5.text=\n\ getOdometer\ gets\ the\ odometer\ reading\ of\ a\ car\n
+numComments=6
