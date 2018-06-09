@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IronMan
+comment0.text=\n\ Write\ a\ description\ of\ class\ IronMan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IronMan()
+comment2.params=newID
+comment2.target=IronMan(java.lang.String)
+comment3.params=
+comment3.target=void\ dance()
+comment4.params=
+comment4.target=void\ cleanSlateProtocol()
+comment5.params=givenID
+comment5.target=void\ setID(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
