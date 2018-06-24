@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SimpleStereoCreator
+comment0.text=\n\ Takes\ 2\ images\ and\ creates\ a\ 3D\ image\n\n\ @author\ John\ Maguire\n\ @version\ 06/20/2018\n
+comment1.params=
+comment1.target=SimpleStereoCreator()
+comment1.text=\n\ Constructor\ for\ SimpleStereoCreator\n
+comment2.params=
+comment2.target=void\ createStereo()
+comment2.text=\n\ Creates\ the\ stereo\ image\ from\ left\ and\ right\ images\n
+numComments=3

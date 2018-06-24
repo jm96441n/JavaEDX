@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\n\ A\ bank\ account\ has\ a\ balance\ and\ and\ owner\ who\n\ can\ make\ deposits\ and\ withdrawals\ from\ the\ account.\n
+comment1.params=
+comment1.target=BankAccount()
+comment1.text=\n\ Default\ constructor\ for\ a\ bank\ account\ with\ zero\ balance\n
+comment2.params=initialBalance\ name
+comment2.target=BankAccount(double,\ java.lang.String)
+comment2.text=\n\ Construct\ a\ balance\ account\ with\ a\ given\ initial\ balance\ and\ owner's\ name\n\ @param\ initialBalane\ \ \ the\ initial\ balance\n\ @param\ name\ \ \ \ \ \ \ \ \ \ \ \ name\ of\ owner\n
+comment3.params=dAmount
+comment3.target=void\ deposit(double)
+comment3.text=\n\ Method\ for\ deposting\ money\ to\ the\ bank\ account\n\ @param\ dAmount\ \ \ the\ amount\ to\ be\ deposited\n
+comment4.params=wAmount
+comment4.target=void\ withdraw(double)
+comment4.text=\n\ Method\ for\ withdrawing\ money\ from\ the\ bank\ account\n\ @param\ wAmount\ \ \ the\ amount\ to\ be\ withdrawn\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\n\ Method\ for\ getting\ the\ current\ balance\ of\ the\ bank\ account\n\ @return\ \ \ the\ current\ balance\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ Main\ method\ for\ testing\ the\ bank\ account\n
+numComments=7
